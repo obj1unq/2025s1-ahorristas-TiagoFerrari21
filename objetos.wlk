@@ -23,8 +23,10 @@ object pepe {
 		return miCuenta.saldo() + cajaFuerte.dinero()
 	}
 }
+
 //en homenaje a Rebeca Cherep de Guber 
 //https://es.wikipedia.org/wiki/Rebeca_Guber
+ 
 object rebeca {
 	const miCuenta = cuentaCorriente
 	method cobrar(monto) { 
